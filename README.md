@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanagala Tarak Sai</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taraksai07&label=Profile%20views&color=0e75b6&style=flat" alt="taraksai07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taraksai07" alt="taraksai07" /></a> </p>
 
 - 🌱 I’m currently learning **React Js, Node Js, Mongo Db, Express Js**
 
