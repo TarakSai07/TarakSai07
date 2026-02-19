@@ -2,9 +2,8 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 
-
 - 🌱 I’m currently learning **React Js, Node Js, Mongo Db, Express Js**
-
+- ask me about java
 - 📫 How to reach me **tanagalataraksai58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
