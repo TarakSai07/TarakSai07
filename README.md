@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Js, Node Js, Mongo Db, Express Js**
 -  ask me about java
--  👯 I’m looking to collaborate on full stack
+-  👯 I’m looking to collaborate on full stack projects
 - 📫 How to reach me **tanagalataraksai58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
