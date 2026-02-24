@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React Js, Node Js, Mongo Db, Express Js**
 -  ask me about java
 -  👯 I’m looking to collaborate on full stack projects
--  🤝 I’m looking for help with end to end application projects
+-  🤝 I am interested in learning how to develop end-to-end applications with proper architecture and deployment
 - 📫 How to reach me **tanagalataraksai58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
