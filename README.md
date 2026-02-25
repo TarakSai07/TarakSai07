@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **React Js, Node Js, Mongo Db, Express Js**
--   ask me about java
+-    ask me about java
 -  👯 I’m looking to collaborate on full stack projects
 -  🤝 I am interested in learning how to develop end-to-end applications with proper architecture and deployment
 -  🧠 I am looking for support in designing and implementing full end-to-end applications
