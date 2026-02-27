@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 
-- 🌱 I’m currently learning MERN with includes **React Js, Node Js, Mongo Db, Express Js**
+- 🌱 I’m currently learning MERN which includes **React Js, Node Js, Mongo Db, Express Js**
 -    ask me about java
 -  👯 I’m looking to collaborate on full stack projects
 -  🤝 I am interested in learning how to develop end-to-end applications with proper architecture and deployment
