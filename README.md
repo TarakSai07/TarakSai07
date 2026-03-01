@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning MERN which includes **React.Js, Node.Js, Mongo DB, Express.Js**
--    ask me about the java, python, 
+-    ask me about the Java, Python, C, DSA
 -  👯 I’m looking to collaborate on full stack projects
 -  🤝 I am interested in learning how to develop end-to-end applications with proper architecture and deployment
 -  🧠 I am looking for support in designing and implementing full end-to-end applications
