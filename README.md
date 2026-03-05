@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently learning MERN which includes **React.Js, Node.Js, Mongo DB, Express.Js**
 -    Ask me about the **Java, Python, C, DSA(Data Structures and Algorithms)**
--  👯 I’m looking to collaborate on Full Stack projects
+-  👯 I’m looking to collaborate on **Full Stack** projects
 -  🤝 I am interested in learning how to develop end-to-end applications with proper architecture and deployment
 -  🧠 I am looking for support in designing and implementing full end-to-end applications
--  🔭 I’m currently working on full stack MERN stack projects
+-  🔭 I’m currently working on full stack MERN Stack projects
 - 📫 How to reach me **tanagalataraksai58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
