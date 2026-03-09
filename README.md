@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanagala Tarak Sai</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 - 🌱 I’m currently learning MERN which includes **React.Js, Node.Js, Mongo DB, Express.Js**
