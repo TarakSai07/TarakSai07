@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-- 🌱 I’m currently learning **MERN** which includes **React.Js, Node.Js, Mongo DB, Express.Js**
+- 🌱 I’m currently learning **MERN STACK** which includes **React.Js, Node.Js, Mongo DB, Express.Js**
 -  🔭 I’m currently working on **MERN Stack** projects
 - ⚡Ask me about the **Java, Python, C, DSA(Data Structures and Algorithms)**
 -  👯 I’m looking to collaborate on **Full Stack** projects
