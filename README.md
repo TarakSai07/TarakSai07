@@ -7,7 +7,7 @@
 - ⚡Ask me about the **Java, Python, C, DSA(Data Structures and Algorithms)**
 -  👯 I’m looking to collaborate on **Full Stack** projects
 -  🤝 I am interested in learning how to develop **End to End** applications with proper architecture and deployment
--  🧠 I am looking for support in designing and implementing **Full and End to End** applications
+-  🧠 I am looking for support in Designing and Implementing **Full and End to End** applications
 - 📫 How to reach me **tanagalataraksai58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
