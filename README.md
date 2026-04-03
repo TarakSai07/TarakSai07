@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN** Stack which includes **React.Js, Node.Js, Mongo DB, Express.Js**
 -  🔭 I’m currently looking and moving to working on **MERN Stack** projects with better collaboration
-- ⚡Ask me about the **DSA(Data Structures and Algorithms), Java and Basics of C, C++, Python**
+- ⚡Ask me about the **DSA(Data Structures and Algorithms), and Basics of C, C++, Java, Python**
 -  👯 I’m looking to collaborate on **Full Stack** projects
 -  🤝 I am interested in learning how to develop **End to End** applications with proper architecture and deployment
 -  🧠 I am looking for support in Designing and Implementing **Full End to End** applications
