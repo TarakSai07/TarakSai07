@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://twitter.com/tanagalat63976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanagalat63976" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanagalataraksai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanagalataraksai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tanagala-tarak-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanagala-tarak-sai" height="30" width="40" /></a>
 <a href="https://fb.com/tanagalats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanagalats" height="30" width="40" /></a>
 <a href="https://instagram.com/tanagalats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanagalats" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@tanagalataraksair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
@@ -24,6 +23,7 @@
 <h3 align="left">Know my Work and Practice:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/tarak_sai_58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarak_sai_58" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tanagala-tarak-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanagala-tarak-sai" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/24a35a1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="24a35a1211" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/24a35a1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="24a35a1211" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tanagalatar5jex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanagalatar5jex" height="30" width="40" /></a>
