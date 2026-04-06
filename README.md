@@ -26,7 +26,6 @@
 <a href="https://auth.geeksforgeeks.org/user/tanagalatar5jex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanagalatar5jex" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tarak_sai_58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarak_sai_58" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/tanagala-tarak-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanagala-tarak-sai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/24a35a1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="24a35a1211" height="30" width="40" /></a>
 </p>
 
 
