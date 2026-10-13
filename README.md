@@ -6,7 +6,7 @@
 -  🔭 I’m currently looking to working on **MERN Stack** projects with better collaboration
 - ⚡Ask me about the **DSA(Data Structures and Algorithms)**
 -  👯 I’m looking to collaborate on **Full Stack** projects
--  🤝 I am interested in learning how to develop **End to End** applications with proper architecture and deployment
+-  🤝 I am interested in learning how to develop **End to End** applications with proper architecture and deploy
 -  🧠 I am looking for support in Designing and Implementing **Full End to End** applications
 - 📫 How to reach me **tanagalataraksai58@gmail.com**
 
