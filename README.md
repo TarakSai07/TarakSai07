@@ -8,7 +8,7 @@
 -  👯 I’m looking to collaborate on **Full Stack** projects
 -  🤝 I am interested in learning how to develop **End to End** applications with proper architecture and deployment
 -  🧠 I am looking for support in Designing and Implementing **Full End to End** applications
-- 📫 How to rea me **tanagalataraksai58@gmail.com**
+- 📫 How to reac me **tanagalataraksai58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
